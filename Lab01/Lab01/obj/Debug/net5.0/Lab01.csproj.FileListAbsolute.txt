@@ -1,0 +1,15 @@
+D:\THWinForm\Lab01\Lab01\bin\Debug\net5.0\Lab01.exe
+D:\THWinForm\Lab01\Lab01\bin\Debug\net5.0\Lab01.deps.json
+D:\THWinForm\Lab01\Lab01\bin\Debug\net5.0\Lab01.runtimeconfig.json
+D:\THWinForm\Lab01\Lab01\bin\Debug\net5.0\Lab01.runtimeconfig.dev.json
+D:\THWinForm\Lab01\Lab01\bin\Debug\net5.0\Lab01.dll
+D:\THWinForm\Lab01\Lab01\bin\Debug\net5.0\ref\Lab01.dll
+D:\THWinForm\Lab01\Lab01\bin\Debug\net5.0\Lab01.pdb
+D:\THWinForm\Lab01\Lab01\obj\Debug\net5.0\Lab01.GeneratedMSBuildEditorConfig.editorconfig
+D:\THWinForm\Lab01\Lab01\obj\Debug\net5.0\Lab01.AssemblyInfoInputs.cache
+D:\THWinForm\Lab01\Lab01\obj\Debug\net5.0\Lab01.AssemblyInfo.cs
+D:\THWinForm\Lab01\Lab01\obj\Debug\net5.0\Lab01.csproj.CoreCompileInputs.cache
+D:\THWinForm\Lab01\Lab01\obj\Debug\net5.0\Lab01.dll
+D:\THWinForm\Lab01\Lab01\obj\Debug\net5.0\ref\Lab01.dll
+D:\THWinForm\Lab01\Lab01\obj\Debug\net5.0\Lab01.pdb
+D:\THWinForm\Lab01\Lab01\obj\Debug\net5.0\Lab01.genruntimeconfig.cache

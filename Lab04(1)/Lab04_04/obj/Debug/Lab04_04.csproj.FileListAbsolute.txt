@@ -1,0 +1,15 @@
+D:\THWinForm\Lab04(1)\Lab04_04\bin\Debug\Lab04_04.exe.config
+D:\THWinForm\Lab04(1)\Lab04_04\bin\Debug\Lab04_04.exe
+D:\THWinForm\Lab04(1)\Lab04_04\bin\Debug\Lab04_04.pdb
+D:\THWinForm\Lab04(1)\Lab04_04\obj\Debug\Lab04_04.csproj.AssemblyReference.cache
+D:\THWinForm\Lab04(1)\Lab04_04\obj\Debug\Lab04_04.Form1.resources
+D:\THWinForm\Lab04(1)\Lab04_04\obj\Debug\Lab04_04.Properties.Resources.resources
+D:\THWinForm\Lab04(1)\Lab04_04\obj\Debug\Lab04_04.csproj.GenerateResource.cache
+D:\THWinForm\Lab04(1)\Lab04_04\obj\Debug\Lab04_04.csproj.CoreCompileInputs.cache
+D:\THWinForm\Lab04(1)\Lab04_04\obj\Debug\Lab04_04.exe
+D:\THWinForm\Lab04(1)\Lab04_04\obj\Debug\Lab04_04.pdb
+D:\THWinForm\Lab04(1)\Lab04_04\bin\Debug\EntityFramework.dll
+D:\THWinForm\Lab04(1)\Lab04_04\bin\Debug\EntityFramework.SqlServer.dll
+D:\THWinForm\Lab04(1)\Lab04_04\bin\Debug\EntityFramework.xml
+D:\THWinForm\Lab04(1)\Lab04_04\bin\Debug\EntityFramework.SqlServer.xml
+D:\THWinForm\Lab04(1)\Lab04_04\obj\Debug\Lab04_04.csproj.CopyComplete

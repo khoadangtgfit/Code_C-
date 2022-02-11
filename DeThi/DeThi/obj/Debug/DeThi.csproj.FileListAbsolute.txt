@@ -1,0 +1,10 @@
+D:\THWinForm\DeThi\DeThi\bin\Debug\DeThi.exe.config
+D:\THWinForm\DeThi\DeThi\bin\Debug\DeThi.exe
+D:\THWinForm\DeThi\DeThi\bin\Debug\DeThi.pdb
+D:\THWinForm\DeThi\DeThi\obj\Debug\DeThi.csproj.AssemblyReference.cache
+D:\THWinForm\DeThi\DeThi\obj\Debug\DeThi.frmSinhVien.resources
+D:\THWinForm\DeThi\DeThi\obj\Debug\DeThi.Properties.Resources.resources
+D:\THWinForm\DeThi\DeThi\obj\Debug\DeThi.csproj.GenerateResource.cache
+D:\THWinForm\DeThi\DeThi\obj\Debug\DeThi.csproj.CoreCompileInputs.cache
+D:\THWinForm\DeThi\DeThi\obj\Debug\DeThi.exe
+D:\THWinForm\DeThi\DeThi\obj\Debug\DeThi.pdb

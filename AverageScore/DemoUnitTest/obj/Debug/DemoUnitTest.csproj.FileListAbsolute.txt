@@ -1,0 +1,17 @@
+D:\THWinForm\AverageScore\DemoUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\THWinForm\AverageScore\DemoUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\THWinForm\AverageScore\DemoUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\THWinForm\AverageScore\DemoUnitTest\bin\Debug\DemoUnitTest.dll
+D:\THWinForm\AverageScore\DemoUnitTest\bin\Debug\DemoUnitTest.pdb
+D:\THWinForm\AverageScore\DemoUnitTest\bin\Debug\AverageScore.exe
+D:\THWinForm\AverageScore\DemoUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\THWinForm\AverageScore\DemoUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\THWinForm\AverageScore\DemoUnitTest\bin\Debug\AverageScore.pdb
+D:\THWinForm\AverageScore\DemoUnitTest\bin\Debug\AverageScore.exe.config
+D:\THWinForm\AverageScore\DemoUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\THWinForm\AverageScore\DemoUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\THWinForm\AverageScore\DemoUnitTest\obj\Debug\DemoUnitTest.csproj.AssemblyReference.cache
+D:\THWinForm\AverageScore\DemoUnitTest\obj\Debug\DemoUnitTest.csproj.CoreCompileInputs.cache
+D:\THWinForm\AverageScore\DemoUnitTest\obj\Debug\DemoUnitTest.csproj.CopyComplete
+D:\THWinForm\AverageScore\DemoUnitTest\obj\Debug\DemoUnitTest.dll
+D:\THWinForm\AverageScore\DemoUnitTest\obj\Debug\DemoUnitTest.pdb

@@ -1,0 +1,10 @@
+D:\THWinForm\Lab03(1)\Lab03_02\bin\Debug\Lab03_02.exe.config
+D:\THWinForm\Lab03(1)\Lab03_02\bin\Debug\Lab03_02.exe
+D:\THWinForm\Lab03(1)\Lab03_02\bin\Debug\Lab03_02.pdb
+D:\THWinForm\Lab03(1)\Lab03_02\obj\Debug\Lab03_02.Form1.resources
+D:\THWinForm\Lab03(1)\Lab03_02\obj\Debug\Lab03_02.Properties.Resources.resources
+D:\THWinForm\Lab03(1)\Lab03_02\obj\Debug\Lab03_02.csproj.GenerateResource.cache
+D:\THWinForm\Lab03(1)\Lab03_02\obj\Debug\Lab03_02.csproj.CoreCompileInputs.cache
+D:\THWinForm\Lab03(1)\Lab03_02\obj\Debug\Lab03_02.exe
+D:\THWinForm\Lab03(1)\Lab03_02\obj\Debug\Lab03_02.pdb
+D:\THWinForm\Lab03(1)\Lab03_02\obj\Debug\Lab03_02.csproj.AssemblyReference.cache

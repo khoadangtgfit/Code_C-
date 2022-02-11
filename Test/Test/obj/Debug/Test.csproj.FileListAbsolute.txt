@@ -1,0 +1,11 @@
+D:\THWinForm\Test\Test\bin\Debug\Test.exe.config
+D:\THWinForm\Test\Test\bin\Debug\Test.exe
+D:\THWinForm\Test\Test\bin\Debug\Test.pdb
+D:\THWinForm\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\THWinForm\Test\Test\obj\Debug\Test.Form1.resources
+D:\THWinForm\Test\Test\obj\Debug\Test.Properties.Resources.resources
+D:\THWinForm\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\THWinForm\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\THWinForm\Test\Test\obj\Debug\Test.exe
+D:\THWinForm\Test\Test\obj\Debug\Test.pdb
+D:\THWinForm\Test\Test\obj\Debug\Test.Form2.resources

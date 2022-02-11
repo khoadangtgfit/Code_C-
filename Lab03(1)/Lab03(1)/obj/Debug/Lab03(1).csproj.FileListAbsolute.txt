@@ -1,0 +1,15 @@
+D:\THWinForm\Lab03(1)\Lab03(1)\bin\Debug\Lab03(1).exe.config
+D:\THWinForm\Lab03(1)\Lab03(1)\bin\Debug\Lab03(1).exe
+D:\THWinForm\Lab03(1)\Lab03(1)\bin\Debug\Lab03(1).pdb
+D:\THWinForm\Lab03(1)\Lab03(1)\bin\Debug\Interop.WMPLib.dll
+D:\THWinForm\Lab03(1)\Lab03(1)\bin\Debug\AxInterop.WMPLib.dll
+D:\THWinForm\Lab03(1)\Lab03(1)\obj\Debug\Lab03(1).csproj.AssemblyReference.cache
+D:\THWinForm\Lab03(1)\Lab03(1)\obj\Debug\Interop.WMPLib.dll
+D:\THWinForm\Lab03(1)\Lab03(1)\obj\Debug\AxInterop.WMPLib.dll
+D:\THWinForm\Lab03(1)\Lab03(1)\obj\Debug\Lab03(1).csproj.ResolveComReference.cache
+D:\THWinForm\Lab03(1)\Lab03(1)\obj\Debug\Lab03_1_.Form1.resources
+D:\THWinForm\Lab03(1)\Lab03(1)\obj\Debug\Lab03_1_.Properties.Resources.resources
+D:\THWinForm\Lab03(1)\Lab03(1)\obj\Debug\Lab03(1).csproj.GenerateResource.cache
+D:\THWinForm\Lab03(1)\Lab03(1)\obj\Debug\Lab03(1).csproj.CoreCompileInputs.cache
+D:\THWinForm\Lab03(1)\Lab03(1)\obj\Debug\Lab03(1).exe
+D:\THWinForm\Lab03(1)\Lab03(1)\obj\Debug\Lab03(1).pdb

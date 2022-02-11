@@ -1,0 +1,10 @@
+D:\THWinForm\AverageScore\AverageScore\bin\Debug\AverageScore.exe.config
+D:\THWinForm\AverageScore\AverageScore\bin\Debug\AverageScore.exe
+D:\THWinForm\AverageScore\AverageScore\bin\Debug\AverageScore.pdb
+D:\THWinForm\AverageScore\AverageScore\obj\Debug\AverageScore.csproj.AssemblyReference.cache
+D:\THWinForm\AverageScore\AverageScore\obj\Debug\AverageScore.AverageScore.resources
+D:\THWinForm\AverageScore\AverageScore\obj\Debug\AverageScore.Properties.Resources.resources
+D:\THWinForm\AverageScore\AverageScore\obj\Debug\AverageScore.csproj.GenerateResource.cache
+D:\THWinForm\AverageScore\AverageScore\obj\Debug\AverageScore.csproj.CoreCompileInputs.cache
+D:\THWinForm\AverageScore\AverageScore\obj\Debug\AverageScore.exe
+D:\THWinForm\AverageScore\AverageScore\obj\Debug\AverageScore.pdb
